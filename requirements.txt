@@ -1,0 +1,4 @@
+streamlit
+azure-ai-inference  # For Foundry models
+azure-identity
+python-dotenv
