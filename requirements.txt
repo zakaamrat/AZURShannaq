@@ -1,4 +1,4 @@
 streamlit
-azure-ai-inference
-azure-core
+openai
+
 
